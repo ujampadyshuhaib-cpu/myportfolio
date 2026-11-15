@@ -182,6 +182,14 @@ export default function Home() {
               <span className="text-yellow-300">&quot;GitHub&quot;</span>,{" "}
               <span className="text-yellow-300">&quot;VS Code&quot;</span>,{" "}
               <span className="text-yellow-300">&quot;Postman&quot;</span>
+              ],
+            </div>
+            <div className="pl-10 sm:pl-14">
+              <span className="text-gray-400">communication:</span> [
+              <span className="text-yellow-300">&quot;Clear Technical Communication&quot;</span>,{" "}
+              <span className="text-yellow-300">&quot;Team Collaboration&quot;</span>,{" "}
+              <span className="text-yellow-300">&quot;Active Listening&quot;</span>,{" "}
+              <span className="text-yellow-300">&quot;Problem Solving&quot;</span>
               ]
             </div>
             <div className="pl-5 sm:pl-7">&#125;,</div>

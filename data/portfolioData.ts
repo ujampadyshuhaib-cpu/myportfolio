@@ -71,6 +71,15 @@ export const portfolioData = {
         { name: "Postman & API Testing", level: 85, icon: "zap" },
       ],
     },
+    {
+      name: "Communication & Soft Skills",
+      skills: [
+        { name: "Clear Technical Communication", level: 92, icon: "message-square" },
+        { name: "Team Collaboration & Agile", level: 90, icon: "users" },
+        { name: "Active Listening & Adaptability", level: 88, icon: "sparkles" },
+        { name: "Problem Solving & Presentation", level: 89, icon: "lightbulb" },
+      ],
+    },
   ],
   projects: [
     {
